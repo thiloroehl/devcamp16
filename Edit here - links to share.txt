@@ -33,3 +33,6 @@ JavaScript PHP-Extensions
 
 Notizen zur bash-Session vom Samstag
 - https://github.com/developercamp/devcamp16/blob/master/bash_session.md
+
+Rasberry Pi, Home Automation, Z-Wave, Enocean
+- http://de.slideshare.net/thiloroehl/fhem-as-iot-rasberry-pi-platform
